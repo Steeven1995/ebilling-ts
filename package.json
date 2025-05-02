@@ -1,6 +1,6 @@
 {
   "name": "ebilling-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "E-Billing REST API Function Specification javascript : v1.9",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",

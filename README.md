@@ -1,5 +1,5 @@
 ## INTRODUCTION
-`npm install @gabinSteeven/ebilling-js`
+`npm install ebilling-js`
 Il s'agit d'une bibliothèque Node.js/TypeScript conçue pour faciliter les interactions avec l'API REST de facturation électronique, version 1.9, fournie par Digitech Africa. Cette bibliothèque simplifie l'intégration des systèmes de paiement mobile au Gabon dans vos applications Node.js. Elle vous permet de créer facilement des factures, d'initier des push USSD et de consulter l'état des factures.
 
 ## FONCTIONNALITE
