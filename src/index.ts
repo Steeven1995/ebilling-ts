@@ -203,7 +203,7 @@ export class EbillingJS {
   private async request<T>(path: string, options: RequestInit): Promise<T> {
 
     try {
-      const response = await fetch(`${this.portalBaseUrl}${path}`, {
+      const response = await fetch(`${this.apiBaseUrl}${path}`, {
         ...options,
         headers: {
           ...this.headers,
